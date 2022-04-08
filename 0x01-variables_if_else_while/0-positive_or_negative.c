@@ -6,7 +6,7 @@
  *
  *Return Always 0 (success)
  */
-int main(void)
+int main(void){/*negative and positive number*/}
 {
 int n;
 srand(time(0));
