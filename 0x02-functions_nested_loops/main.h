@@ -1,12 +1,6 @@
 #ifndef MAIN_H_INCLUDED
 #define MAIN_H_INCLUDED
 
-/**
- *FILE:main.h
- *desc:Header file containing declearations for all functions
- *     used in the 0x02-functions_nested_loops directory.
- */
-
 int _putchar(char c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
