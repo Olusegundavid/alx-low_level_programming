@@ -5,7 +5,6 @@
 *
 * Return: 1 if the number is greater than zero,
 *         0 if the number is zero,
-
 */
 int print_sign(int n)
 {
