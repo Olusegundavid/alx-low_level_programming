@@ -1,11 +1,10 @@
-#include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
 /**
 * malloc_checked - Allocates memory
 * @b: size of memory to be allocated
-* 
-* Return: Nothing.
+* Return: pointer to the allocated memory (SUCCESS)
+* 98 if insufficient memory was available (FAILURE)
 */
 void *malloc_checked(unsigned int b)
 {
